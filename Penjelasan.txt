@@ -1,0 +1,8 @@
+Konsep dasar typescript
+1. Interface
+ - digunakan sebagai blueprint untuk kode yang kita buat
+
+2. Type 
+ - Digunakan untuk memberi alias pada tipe tertentu
+
+ `type bisa lebih fleksibel untuk mendefinisikan tipe yang kompleks dan gabungan, sedangkan interface lebih cocok untuk mendefinisikan struktur objek yang berorientasi pada OOP (Object-Oriented Programming).
